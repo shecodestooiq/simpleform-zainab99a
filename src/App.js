@@ -1,10 +1,11 @@
 import './App.css';
-import HW from './components/Hw';
+import Card from './component/Card'
 
 function App() {
   return (
-    <>
-    </>
+    <div className="App">
+    <Card></Card>
+   </div>
   );
 }
 
