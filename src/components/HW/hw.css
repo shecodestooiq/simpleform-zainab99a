@@ -1,5 +1,4 @@
-
-.card{
+.hw{
     text-align: center;
     margin: auto;
     padding: 10px;
@@ -13,28 +12,6 @@
     box-shadow: 5px 10px 10px pink;
     
     
-}
-
-.card h1{
-   color: rgb(222, 49, 110);
-}
-.name,
-.email{
-    height: 30px;
-    width: 200px;
-    border-radius: 10px;
-    border: 1px solid rgb(255, 39, 143);
-    margin-bottom: 10px;
-    padding: 8px;
-    box-shadow: 5px -5px 5px pink;
-}
-.card textarea{
-    border-radius: 10px;
-    border: 1px solid rgb(255, 39, 143);
-    padding: 8px;
-    box-shadow: 5px -5px 5px pink;
-    margin-bottom: 10px;
-
 }
 .btn{
     height: 40px;

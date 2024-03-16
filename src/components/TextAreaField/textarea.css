@@ -1,0 +1,7 @@
+.txtarea{
+    border-radius: 10px;
+    border: 1px solid rgb(255, 39, 143);
+    padding: 8px;
+    box-shadow: 5px -5px 5px pink;
+    margin-bottom: 10px;
+}
